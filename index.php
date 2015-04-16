@@ -13,7 +13,7 @@ include 'include/logo-nav.php';
 <div id="banner">
     <!-- <div id="quote">"A Healthy Dose of God's Love"
       <div id="quotesmall">John 3:16-17</div>
-    </div><!--quote--> 
+    </div><!-- test quote--> 
  </div><!--banner--> 
   <article class="threeIcons">
     <div class="iconIndex">
